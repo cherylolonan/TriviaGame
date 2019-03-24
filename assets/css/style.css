@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://www.themeparkinsider.com/art/flume/6373.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin: 10px;
+}
+
+.row {
+    margin: 10px;
+}
+
+#factoids {
+    font-weight: bold;
+    font-size: 10px;
+    color: black;
+}
